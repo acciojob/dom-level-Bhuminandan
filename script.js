@@ -11,4 +11,4 @@ function domLevel(element) {
 
 const result = domLevel(Item5);
 
-alert("The level of the element is:", $(Item5));
+alert("The level of the element is:", ${result});
