@@ -9,6 +9,6 @@ function domLevel(element) {
   return level;
 }
 
-const result = domLevel(Item5);
+const n = domLevel(Item5);
 
-alert(`The level of the element is: ${result}`);
+alert(`The level of the element is: ${n}`);
